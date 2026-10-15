@@ -27,18 +27,6 @@ https://github.com/raquelcedazo/sistemas-informaticos-industriales/wiki
 
 ---
 
-## 🎓 Profesorado
+Modificacion 
+Ivan Yankowich Oliver
 
-Asignatura impartida por el **Departamento de Ingeniería Eléctrica, Electrónica, Automática y Física Aplicada** de la **Universidad Politécnica de Madrid**:
-
-- **Raquel Cedazo** *(coordinadora de las prácticas)*
-- **David Álvarez**
-- **Imanol Izcara**
-
----
-
-## 🤝 Contribuciones
-
-Este repositorio tiene finalidad exclusivamente docente.
-
-Si detectas algún error o tienes alguna sugerencia de mejora, puedes comunicarlo al profesorado de la asignatura.
